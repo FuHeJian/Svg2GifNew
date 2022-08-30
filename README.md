@@ -8,3 +8,5 @@ svg矢量图转gif动态图
 ## 成品
 
 https://fhj.lanzout.com/irHR70agsbij
+
+![Alt](https://github.com/FuHeJian/Svg2GifNew/blob/main/App%E6%88%AA%E5%9B%BE.jpg)
